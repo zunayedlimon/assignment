@@ -1,0 +1,222 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-part-one{
+
+    text-align: center;
+    position: relative;
+    
+    
+  
+}
+
+
+.header-image{
+   
+    width: 100%; 
+
+}
+
+.header-text{
+    text-align: right;
+    top: 240px;
+    position: absolute;
+    right: 100px;
+
+    
+}
+.header-title{
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.header-sub-title{
+    font-size: 13px;
+    margin-top: 18px;
+}
+
+
+.btn-primary{
+    margin-top: 18px;
+    height: 40px;
+    width: 130px;
+    background-color: #F15B22;
+    border-color: #F15B22;
+    border-radius: 5px;
+}
+
+/* main  */
+
+.main-text{
+
+    text-align: left;
+    top: 1000px; 
+    position: absolute;
+    right: 150px;
+
+}
+
+.main-image{
+    height: 523px;
+    width: 420px;
+    margin-left: 150px;
+}
+
+.main{
+    margin-top: 200px;
+
+}
+
+.main-title{
+    margin-bottom: 18px;
+}
+
+.main-sub-title{
+    
+    font-size: 13px;
+
+}
+
+.tick-mark{
+    margin-top: 18px;
+    font-size: 13px;
+    line-height: 30px;
+}
+
+.plan-header{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.plan-part{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 180px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.plan-icon{
+    width: 70px;
+    height: 70px;
+    margin-bottom: 14px;
+}
+
+.plan-last{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+.call-image{
+    margin-left: 180px;
+    width: 1000px;
+    height: 200px;
+}
+
+.call-part{
+    text-align: left;
+    top: 1890px; 
+    position: absolute;
+    margin-left: 230px;
+}
+
+.call-part-one{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.btn-secondary{
+    height: 40px;
+    width: 130px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: white; 
+}
+
+.call-main{
+    margin-bottom: 100px; 
+}
+
+/* footer  */
+
+.footer-main{
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    display: flex;
+}
+
+.footer-part-one{
+    padding: 60px;
+    margin-left: 130px;
+    color: white;
+    margin-right: 20px;
+    
+}
+
+
+.footer-sub-title{
+    font-size: 13px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.footer-social{
+    width: 25px;
+    height: 26px;
+   
+  
+}
+
+.footer-part-two{
+padding: 60px;
+color: white;
+margin-right: 0px;
+margin-left: 160px;
+    
+
+    
+}
+
+.footer-mail{
+    margin-top: 14px;
+    border-radius: 5px;
+    height: 38px;
+    width: 250px;
+    background-color: black;
+    border-color: white;
+    color: white;
+    font-size: 13px;
+    font-weight: 900;
+   
+}
+
+.btn-subscribe{
+    margin-top: 14px;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 900;
+    
+
+}
+
+
+
+
+
+
+
